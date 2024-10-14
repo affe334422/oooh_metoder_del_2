@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "oooh_metoder_del_2/1.0.0": {
+        "runtime": {
+          "oooh_metoder_del_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "oooh_metoder_del_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
