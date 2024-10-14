@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("oooh_metoder_del_2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+908490807dfe24e8cf4861e4957a36e57506d397")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ee44bd167fd1700c71c3e450a1a47798a3f572f")]
 [assembly: System.Reflection.AssemblyProductAttribute("oooh_metoder_del_2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("oooh_metoder_del_2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

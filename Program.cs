@@ -14,6 +14,10 @@ Console.WriteLine("10 upphöjt till 7: "+Power(10,7));
 Console.WriteLine("2 upphöjt till 10: "+Power(2,10));
 
 static double Power(double a, double b){
-   double a1 = Math.Pow(a, b);
-    return a1;
+   double test = a;
+    for(int aa = 1; aa < b; aa++){
+        test = test * a;
+    }
+
+    return test;
 }

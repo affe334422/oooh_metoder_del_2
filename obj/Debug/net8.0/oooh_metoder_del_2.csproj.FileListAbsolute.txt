@@ -12,3 +12,4 @@ C:\Users\alle07002\OneDrive - Växjö kommun\Skrivbordet\program\oooh_metoder_de
 C:\Users\alle07002\OneDrive - Växjö kommun\Skrivbordet\program\oooh_metoder_del_2\obj\Debug\net8.0\oooh_metoder_del_2.pdb
 C:\Users\alle07002\OneDrive - Växjö kommun\Skrivbordet\program\oooh_metoder_del_2\obj\Debug\net8.0\oooh_metoder_del_2.genruntimeconfig.cache
 C:\Users\alle07002\OneDrive - Växjö kommun\Skrivbordet\program\oooh_metoder_del_2\obj\Debug\net8.0\ref\oooh_metoder_del_2.dll
+C:\Users\alle07002\OneDrive - Växjö kommun\Skrivbordet\program\oooh_metoder_del_2\obj\Debug\net8.0\oooh_metoder_del_2.sourcelink.json
